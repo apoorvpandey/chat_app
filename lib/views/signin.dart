@@ -1,12 +1,11 @@
-
 import 'package:chatapp/helper/helperfunction.dart';
 import 'package:chatapp/services/auth.dart';
 import 'package:chatapp/services/database.dart';
 import 'package:chatapp/widgets/widget.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:flutter/material.dart';
-
 import 'chatRoomScreen.dart';
+
 class SignIn extends StatefulWidget {
 
   final Function toggle;

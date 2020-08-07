@@ -1,4 +1,3 @@
-import 'package:chatapp/helper/constants.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
 
 class DatabaseMethods {
